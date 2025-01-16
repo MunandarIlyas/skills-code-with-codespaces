@@ -1,0 +1,7 @@
+{
+    "name": "Python Development Environment",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:latest",
+    "remoteUser": "codespace",
+    "overrideCommand": false
+  }
+  
